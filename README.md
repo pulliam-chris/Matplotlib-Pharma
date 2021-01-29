@@ -16,6 +16,6 @@ Primary Jupyter Notebook file: pymaceuticals_main.ipynb
 
 * There were no recorded statistical outliers in calculating the final tumor weights in the four "regimens of interest".
 
-* Capomulin and Ramicane are regimens that continue to show promissing results in that the final recorded tumor volume for mice receiving that drug was lower than the two otehr "regimens of interest" (Infubinol & Ceftamin).
+* Capomulin and Ramicane are regimens that continue to show promissing results in that the final recorded tumor volume for mice receiving that drug was lower than the two other "regimens of interest" (Infubinol & Ceftamin).
 
 * As expected, a strong correlation was found between the measured weight of a mouse and the average size of their tumor recorded in the study.  A tumor that is a collection of excess cells increased the expected measured weight of the mouse.
