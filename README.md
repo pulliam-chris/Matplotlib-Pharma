@@ -1,6 +1,8 @@
 # Matplotlib-Pharma
 Plot and Stat analysis of anti-cancer drug
 
+Primary Jupyter Notebook file: pymaceuticals_main.ipynb
+
 **_Please run through the cells in sequence to review the output for each requested function._**
 
 ## Observations and Insights
